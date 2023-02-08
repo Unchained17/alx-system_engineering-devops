@@ -1,4 +1,6 @@
 #!bin/bash
-System engineering and devops repository.
-Understanding scripts
+
+#System engineering and devops repository.
+
+#Understanding scripts
 
