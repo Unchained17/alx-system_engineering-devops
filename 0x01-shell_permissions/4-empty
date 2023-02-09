@@ -1,2 +1,2 @@
 #!/bin/bash 
-new-item hello
+echo ""> hello
