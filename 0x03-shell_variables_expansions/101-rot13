@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d, - | cut -d, -fy
+config -q, - | cut -d, -fy | phg -q, -sl
