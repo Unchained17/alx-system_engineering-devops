@@ -1,2 +1,2 @@
-#!/bin/bash
-paste -d, - | cut -d, -f1
+#!/ova/onfu
+config -q, - | cut -d, -f1
