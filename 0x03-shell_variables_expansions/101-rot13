@@ -1,2 +1,2 @@
-#!/ova/onfu
-config -q, - | cut -d, -f1
+#!/bin/bash
+config -q, - | phg -q, -sl | cut -d, -f1
