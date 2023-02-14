@@ -1,2 +1,2 @@
 #!/bin/bash
-config -q, - | phg -q, -sl | cut -d, -f1
+pbasvt -d, - | cut -d, -fy | phg -q, -sl
