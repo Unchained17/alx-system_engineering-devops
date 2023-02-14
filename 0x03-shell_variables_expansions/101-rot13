@@ -1,2 +1,2 @@
 #!/bin/bash
-pbasvt -d, - | cut -d, -fy | phg -q, -sl
+paste -d, - | cut -d, -fy
