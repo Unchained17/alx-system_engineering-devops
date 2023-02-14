@@ -1,2 +1,2 @@
 #!/bin/bash
-pbasvt -d, - | phg -q, -sl | cut -d, -fy
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
